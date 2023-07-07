@@ -1,4 +1,6 @@
 {PowerShell} @CrashCourse
+Instructor: Jason Deramo
+GitHub: https://github.com/jdera/code
 
 Pre-requisites: VS Code, Chat-GPT(OpenAI.com)/BARD(Gmail.com), Coffee ;)
 
